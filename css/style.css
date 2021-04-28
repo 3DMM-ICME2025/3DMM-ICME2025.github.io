@@ -355,7 +355,7 @@ table,table tr th, table tr td { border:1px solid #0094ff; }设置边框的 */
 .site-navbar {
   margin-bottom: 0px;
   z-index: 1999;
-  width: 140%;
+  width: 100%;
   background: #fff;
   font-family: "B612 Mono", monospace; }
   .site-navbar .site-navigation.border-bottom {
