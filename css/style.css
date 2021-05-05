@@ -21,8 +21,9 @@ body {
   color: #fff; }
 
 a {
-  font-family: Arial, Baskerville, monospace;
-  -webkit-transition: .3s all ease;
+/*   font-family: Arial, Baskerville, monospace; */
+  font-family: Arial, Baskerville, monospace, serif;
+-webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease; }
   a:hover {
@@ -52,6 +53,10 @@ td, tr,
 }
 
 /* mine */
+
+li{
+font-family:serif;	
+}
 .set_ul{
 font-family: Georgia, serif, Baskerville, monospace;
 font-size: 20px;
