@@ -21,6 +21,8 @@ body {
   color: #fff; }
 
 a {
+  font-family: 'Helvetica';
+  /* font-family: 'Cabin'; */
 /*   font-family: Arial, Baskerville, monospace; */
 /*   font-family: Arial, Baskerville, monospace, serif; */
 -webkit-transition: .3s all ease;
@@ -44,7 +46,7 @@ p,
 td, tr,
 .td, .tr{
   /* font-family: Georgia, serif, Baskerville, monospace; */
-  font-family: "Times New Roman", Georgia, serif, Baskerville, monospace;
+  font-family: Helvetica,"Cabin","Times New Roman", Georgia, serif, Baskerville, monospace;
   font-size:18px;
   text-align: center;
   border-collapse: collapse;
