@@ -91,6 +91,18 @@ font-size: 20px;
   margin-right: 10px;
   /* margin-right: 25px; */
 }
+
+.instructor_fina {
+  vertical-align:top;
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  margin-right: 20px;
+  margin-top: 10px;
+  /* margin-right: 25px; */
+}
+
+
 /* .pcs-row {
   display: flex;
 }
