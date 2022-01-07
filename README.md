@@ -1,3 +1,3 @@
-The First International Workshop on Human-centric Trustworthy Computer Vision: From Research to Applications In Conjunction with ICCV 2021
+The First International Workshop on 3D Multimedia Analytics, Search and Generation In Conjunction with ICME 2022
 # Homepage
-https://htcv-iccv2021.github.io/
+https://3DMM-ICME2022.github.io/
