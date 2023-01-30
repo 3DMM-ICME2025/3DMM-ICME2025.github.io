@@ -1,3 +1,3 @@
-The First International Workshop on 3D Multimedia Analytics, Search and Generation In Conjunction with ICME 2022
+The Second International Workshop on 3D Multimedia Analytics, Search and Generation In Conjunction with ICME 2023
 # Homepage
-https://3DMM-ICME2022.github.io/
+https://3DMM-ICME2023.github.io/
