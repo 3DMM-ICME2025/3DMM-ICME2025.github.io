@@ -1,3 +1,3 @@
-The Third International Workshop on 3D Multimedia Analytics, Search and Generation In Conjunction with ICME 2024
+The Fourth International Workshop on 3D Multimedia Analytics, Search and Generation In Conjunction with ICME 2025
 # Homepage
-https://3DMM-ICME2024.github.io/
+https://3DMM-ICME2025.github.io/
